@@ -1,0 +1,1 @@
+This repository contains a simple Python program that demonstrates a common runtime error: ZeroDivisionError.  The `function` attempts to divide by zero, leading to this exception. The solution shows how to handle this using exception handling.
